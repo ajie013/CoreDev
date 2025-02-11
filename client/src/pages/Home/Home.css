@@ -4,7 +4,9 @@
     --gray: #d3d3d3; /* New gray color for hover */
 }
 
-
+body{
+    background-color: #f1f8ff;
+}
 
 .home-container .photo-wrapper{
     height: 100vh;

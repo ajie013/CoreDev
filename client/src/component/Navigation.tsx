@@ -58,10 +58,10 @@ const Links = () =>{
                 <li className='navigation-link'>
                     <NavLink to="/">Home</NavLink>
                 </li>
-                <li className='navigation-link'>
+                <li className='navigation-link sub'>
                     Product <RxCaretDown className='caret' />
                     <div className="dropdown">
-                        <NavLink to="/product/software">Software Products</NavLink>
+                        <NavLink to="/Products/Software">Software Products</NavLink>
                         <NavLink to="/product/hardware">Hardware Products</NavLink>
                     </div>
                 </li>
